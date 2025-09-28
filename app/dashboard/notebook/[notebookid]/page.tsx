@@ -1,6 +1,7 @@
-import { CreateNoteButton } from "@/components/create-note-button";
+import { CreateNotebookButton } from "@/components/create-notebook-button";
 import NoteCard from "@/components/note-card";
 import { PageWrapper } from "@/components/page-wrapper";
+import { CreateNoteButton } from "@/components/ui/create-note-button";
 import { getNotebookById } from "@/server/notebooks";
 
 type Params = Promise<{

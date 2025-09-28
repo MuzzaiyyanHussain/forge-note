@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/card";
 import { Note } from "@/db/schema";
 import Link from "next/link";
-import { Button } from "./ui/button";
+import { Button } from "./button";
 import {
   AlertDialog,
   AlertDialogAction,

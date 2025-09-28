@@ -5,7 +5,7 @@ import {
   BreadcrumbList,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
-import { SidebarTrigger } from "./ui/sidebar";
+import { SidebarTrigger } from "./sidebar";
 import { Logout } from "./logout";
 import { ModeToggle } from "./mode-toggle";
 import { Fragment } from "react";
